@@ -67,3 +67,12 @@ Job-Tracker/
 ```bash
 git clone https://github.com/sarvasva86/Job-Tracker.git
 cd job-tracker
+
+
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
