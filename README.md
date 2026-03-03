@@ -76,3 +76,9 @@ cd job-tracker
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+
+## 🚀 Live Demo
+
+Frontend: https://job-tracker-1dlj.vercel.app
+Backend: https://job-tracker-1v9n.onrender.com
