@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://job-tracker-1v9n.onrender.com";
 
 // ==========================
 // TOKEN HELPERS
